@@ -21,8 +21,8 @@ Unlike a standard tutorial, this repo focuses on the bridge between theory and p
 | :--- | :--- |
 | 📁 Python Basics | ✅ Completed |
 | 📁 Python built in data structures | ✅ Completed |
-| 📁 File Handling | 🚧 In Progress|
-| 📁 OOPS | ⏳ Pending |
+| 📁 File Handling | ✅ Completed|
+| 📁 OOPS | 🚧 In Progress |
 | 📁 DSA | ⏳ Pending |
 | 📁 Data Analysis | ⏳ Pending |
 
